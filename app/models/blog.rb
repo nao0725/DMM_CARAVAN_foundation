@@ -1,2 +1,16 @@
 class Blog < ApplicationRecord
+  def show
+  end
+
+  def index
+  end
+
+  def new
+  end
+
+  def create
+  end
+  def edit
+  end
+  
 end
